@@ -1,7 +1,3 @@
-## Hi there 👋
-
-![Tungsten-Owl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tungsten-Owl)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%2C%20I%27m%20Tungsten-Owl&section=header&fontSize=80&fontColor=ffffff" />
 </p>
@@ -53,13 +49,6 @@
 
 ---
 
-###  Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tungsten-Owl/Tungsten-Owl/output/snake.svg" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tungsten-Owl&color=blue&style=flat" />
